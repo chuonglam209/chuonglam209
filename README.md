@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @chuonglam209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+CS112.L21-Nhom18
+NHÓM 18
 
-<!---
-chuonglam209/chuonglam209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tên môn học: Phân Tích và Thiết Kế Thuật Toán
+Mã môn học: CS112
+Lớp học: CS112.L21
+Năm học: 2020-2021
+Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
+THÀNH VIÊN NHÓM
+
+STT	MSSV	Vai Trò	Họ và Tên	Email
+14520090	Lâm Cần Chương	14520090@gm.uit.edu.vn
+
+CHỦ ĐỀ SEMINAR
+Luyện tập thiết kế thuật toán(4)
