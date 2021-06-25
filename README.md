@@ -13,3 +13,37 @@ THÀNH VIÊN NHÓM
 
 CHỦ ĐỀ SEMINAR
 Luyện tập thiết kế thuật toán(4)
+
+
+
+
+
+
+
+
+<space><space>
+  <space><space>
+    <space><space>
+
+      Điểm BT và Phát Biểu
+
+
+|       Nhóm    |    Điểm      |
+| :------------:|:------------:|
+| 1	|9
+2	|9
+3	|8
+4|	9
+5	|8
+6|	9
+7|	8
+8|	8
+9	|10
+10|	8
+11|	8
+12|	8
+13|	9
+14|	8
+15|	9
+16|	10
+17|	7
