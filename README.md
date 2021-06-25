@@ -25,7 +25,7 @@ Luyện tập thiết kế thuật toán(4)
   <space><space>
     <space><space>
 
-      Điểm BT và Phát Biểu
+     **Điểm BT và Phát Biểu**
 
 
 |       Nhóm    |    Điểm      |
@@ -47,3 +47,10 @@ Luyện tập thiết kế thuật toán(4)
 15|	9
 16|	10
 17|	7
+      
+      
+      
+      Biên bản buổi họp
+        Nhóm cao điểm nhất Kahoot : Nhóm 4
+      Các bạn trả lời đúng và năng nổ : Huỳnh Thị Mỹ Duyên và Nguyễn Xuân Minh
+      Mỗi problem đều có từ 15-17 câu trả lời từ các nhóm.
